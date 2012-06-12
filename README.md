@@ -1,6 +1,5 @@
-_,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,_
-         PhpRules, a rules engine for Php
-_,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,_
+PhpRules, a rules engine for Php
+===================================
 
 
 This engine is not my creation : it is taken for an (almost) stalled project
